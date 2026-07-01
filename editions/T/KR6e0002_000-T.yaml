@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0002/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴遊意
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T35/T35n1731.xml
+    old_id: T35n1731
+hash: sha256:054f43d2301216292af78b1f02b9a459bb6bf60565b4463aba598d7fdc05b56b

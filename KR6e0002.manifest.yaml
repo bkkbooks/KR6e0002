@@ -1,0 +1,48 @@
+canonical_identifier: bkk:krp/KR6e0002/v1
+canonical_location: https://kanripo.org/bkk/KR6e0002/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 華嚴遊意
+  identifiers:
+    alt_id:
+    - T35n1731
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T35/T35n1731.xml
+    old_id: T35n1731
+  edition:
+    short: bkk
+editions:
+- short: 原
+  label: 原
+  source_xml_id: wit1
+- short: 甲
+  label: 甲
+  source_xml_id: wit2
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0002_000.yaml, hash: 'sha256:054f43d2301216292af78b1f02b9a459bb6bf60565b4463aba598d7fdc05b56b'}
+  - {seq: 1, filename: KR6e0002_001.yaml, hash: 'sha256:fc5cdcf6802301d7efc39f673c3004c7be8ae0772405b2a11521dbd65cfbed4f'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6e0002_001.markers.yaml, hash: 'sha256:ee29a7e5e40e86e26b77cfd8f00e529f02a4cc112dd47b1c7bdf317ec3d2fa51'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6e0002_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 17946
+  label: 華嚴遊意
+  type: juan
+  level: 1
+hash: sha256:070cfd95a95b5c4c12eca1218c6fee1406eca0b8bed05fb34807fdc488893cb9
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
