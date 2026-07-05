@@ -28,9 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6e0002_000.yaml, hash: 'sha256:054f43d2301216292af78b1f02b9a459bb6bf60565b4463aba598d7fdc05b56b'}
-  - {seq: 1, filename: KR6e0002_001.yaml, hash: 'sha256:fc5cdcf6802301d7efc39f673c3004c7be8ae0772405b2a11521dbd65cfbed4f'}
+  - {seq: 1, filename: KR6e0002_001.yaml, hash: 'sha256:c5f50330ff8f4e7e9bbd311cf9c9c22f751668f42b9125eef66d35e3ad2d1187'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6e0002_001.markers.yaml, hash: 'sha256:ee29a7e5e40e86e26b77cfd8f00e529f02a4cc112dd47b1c7bdf317ec3d2fa51'}
+  - {seq: 0, role: markers, filename: assets/KR6e0002_000.markers.yaml, hash: 'sha256:b726108026857bb70269d21fdc60466a4462294c0aeef7918d8d7640a7850ef6'}
+  - {seq: 1, role: markers, filename: assets/KR6e0002_001.markers.yaml, hash: 'sha256:87550fd14a743b2f2e7f43cc4e12abc2bed9a8b9c232a2c194e4741a4fa93dd0'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,7 +43,4 @@ table_of_contents:
   label: 華嚴遊意
   type: juan
   level: 1
-hash: sha256:070cfd95a95b5c4c12eca1218c6fee1406eca0b8bed05fb34807fdc488893cb9
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:bd35e556e721a25a7938ae9ed742eb3354c347e3a7b059f063e07047e59160fc
